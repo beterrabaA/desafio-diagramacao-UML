@@ -1,6 +1,6 @@
 package device.telefone;
 
-public interface Telefone {
+public interface TelefoneInterface {
     void chamar(int phoneNumber);
     void atender();
     void correioDeVoz();

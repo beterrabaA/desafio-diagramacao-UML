@@ -1,6 +1,6 @@
 package device.musica;
 
-public interface Musica {
+public interface MusicaInterface {
     void tocar();
     void pausar();
     void selecionarMusica(String name);
